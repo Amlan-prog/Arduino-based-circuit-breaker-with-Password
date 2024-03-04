@@ -35,3 +35,5 @@ Fatal electrical accidents, particularly during electric line repairs, have been
 - **Efficient Communication:** The enhanced safety measures contribute to better communication and coordination between maintenance staff and electric substation personnel.
 
 In conclusion, our Password-Protected Circuit Breaker not only provides robust protection against electrical faults but also prioritizes safety by incorporating a secure password authentication system.
+![image](https://github.com/Amlan-prog/Arduino-based-circuit-breaker-with-Password/assets/106246237/b8f23488-6642-4a49-aaf5-5da47a7344c0)
+
