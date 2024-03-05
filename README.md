@@ -1,4 +1,4 @@
-## Password-Protected Circuit Breaker - Enhanced Safety and Control
+## Arduino based circuit breaker with password
 
 ### Overview
 
